@@ -1,0 +1,17 @@
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.csprojResolveAssemblyReference.cache
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.Form1.resources
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.Form2.resources
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.Properties.Resources.resources
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.csproj.GenerateResource.Cache
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Inflacccion.exe.config
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Inflacccion.exe
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Inflacccion.pdb
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\LinqToExcel.dll
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\log4net.dll
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Remotion.Data.Linq.dll
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Remotion.dll
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\Remotion.Interfaces.dll
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\LinqToExcel.xml
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\bin\Debug\log4net.xml
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.exe
+c:\users\aneudy\documents\visual studio 2013\Projects\Inflacccion\Inflacccion\obj\Debug\Inflacccion.pdb
